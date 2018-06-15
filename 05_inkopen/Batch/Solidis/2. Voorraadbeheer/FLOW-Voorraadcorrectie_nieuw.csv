@@ -1,0 +1,17 @@
+NAV-HEADER;Voorraadbeheer;;;;;;;;6319744;86;217;1281;FALSE
+NAV-ITEM;Voorraadbeheer;Voorraadcorrecties;;;;;;;15387072;109;260;1281;FALSE
+BUTTON;Voorraadbeheer;Voorraadcorrecties;;;btn_new_single;dd_stock_dd_stock_adjust_lst_frm;;;21405;702;64;1281;FALSE
+FIELD;Voorraadbeheer;Voorraadcorrecties;;;fld_inputField_tab_prod;dd_stock_dd_stock_adjust_new_dlg_lst_frm;;;16777215;636;523;1281;EDIT
+INPUT;Voorraadbeheer;Voorraadcorrecties;;;fld_inputField_tab_prod;011030496;;;16777215;636;523;762;FALSE
+KEY;Voorraadbeheer;Voorraadcorrecties;;;fld_inputField_tab_prod;ENTER;;;16777215;636;523;766;FALSE
+FIELD;Voorraadbeheer;Voorraadcorrecties;;;fld_reason_req;dd_stock_dd_stock_adjust_new_dlg_frm;;;15659508;1145;404;1281;EDIT
+BUTTON;Voorraadbeheer;Voorraadcorrecties;;;onbekend;onbekend;;;15198958;1160;522;1276;FALSE
+BUTTON;Voorraadbeheer;Voorraadcorrecties;;;btn_send;dd_stock_dd_stock_adjust_new_dlg_frm;;;15067116;744;331;1281;FALSE
+BUTTON;Voorraadbeheer;Voorraadcorrecties;;;onbekend;onbekend;;;11980785;967;554;1276;FALSE
+BUTTON;Voorraadbeheer;Voorraadcorrecties;;;onbekend;onbekend;;;15329769;957;555;1276;FALSE
+FIELD;Voorraadbeheer;Voorraadcorrecties;;;fld_adjustment;dd_stock_dd_stock_adjust_new_dlg_lst;;;11128314;1269;577;1297;EDIT
+KEY;Voorraadbeheer;Voorraadcorrecties;;;fld_adjustment;ENTER;;;11128314;1269;577;767;FALSE
+INPUT;Voorraadbeheer;Voorraadcorrecties;;;fld_adjustment;100;;;11128314;1269;577;747;FALSE
+KEY;Voorraadbeheer;Voorraadcorrecties;;;fld_adjustment;TAB;;;11128314;1269;577;766;FALSE
+BUTTON;Voorraadbeheer;Voorraadcorrecties;;;btn_send;dd_stock_dd_stock_adjust_new_dlg_frm;;;13538389;754;334;1280;FALSE
+SLUIT;66;92

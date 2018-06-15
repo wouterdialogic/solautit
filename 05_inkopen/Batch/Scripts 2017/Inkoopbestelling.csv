@@ -1,0 +1,31 @@
+NAV-HEADER;Inkopen;;;;;;;;16448250;58;552;1278;FALSE
+NAV-ITEM;Inkopen;Bestellingen;;;;;;;9478338;68;574;1281;FALSE
+BUTTON;Inkopen;Bestellingen;;;btn_new_single;dd_pur_dd_pur_order_lst_frm;;;10463932;699;60;1285;FALSE
+LABEL;Inkopen;Bestellingen;;;BTN_quickSearchcc;;;;13226972;850;305;1289;COMBOBOX
+INPUT;Inkopen;Bestellingen;;;BTN_quickSearchcc;*;;;16185336;850;305;778;FALSE
+KEY;Inkopen;Bestellingen;;;BTN_quickSearchcc;ENTER;;;16185336;850;305;774;FALSE
+BUTTON;Inkopen;Bestellingen;;;onbekend;onbekend;;;3231644;425;564;1297;FALSE
+INPUT;Inkopen;Bestellingen;;;onbekend;4986.800.96	ZegroCentrum/Dassen	Oost-Sidelinge	15	3043JH	Rotterdam	78;;;3234207;425;564;787;FALSE
+KEY;Inkopen;Bestellingen;;;onbekend;TAB;;;16777215;425;564;794;FALSE
+KEY;Inkopen;Bestellingen;;;onbekend;TAB;;;16777215;425;564;784;FALSE
+KEY;Inkopen;Bestellingen;;;onbekend;TAB;;;16777215;425;564;775;FALSE
+BUTTON;Inkopen;Bestellingen;;;onbekend;onbekend;;;15198958;927;786;1301;FALSE
+BUTTON;Inkopen;Bestellingen;;;btn_forward;dd_pur_dd_pur_order_new_dlg_frm_wiz1;;;0;612;259;1274;FALSE
+INPUT;Inkopen;Bestellingen;;;btn_forward;*;;;0;612;259;790;FALSE
+KEY;Inkopen;Bestellingen;;;btn_forward;ENTER;;;0;612;259;774;FALSE
+LABEL;Inkopen;Bestellingen;;;BTN_quickSearchcc;;;;13555675;620;525;1288;COMBOBOX
+BUTTON;Inkopen;Bestellingen;;;onbekend;onbekend;;;16777215;421;265;1290;FALSE
+BUTTON;Inkopen;Bestellingen;;;onbekend;onbekend;;;8172543;412;264;1283;FALSE
+INPUT;Inkopen;Bestellingen;;;onbekend;*;;;16448250;421;263;791;FALSE
+BUTTON;Inkopen;Bestellingen;;;onbekend;onbekend;;;11128314;517;613;1278;FALSE
+INPUT;Inkopen;Bestellingen;;;onbekend;0203.844.91	RoyalclubTonicPet1LT	650	6.0	620	VrumonaB.V.	Dranken	5.79	6.7	42.0	20.0;;;11128314;517;613;782;FALSE
+KEY;Inkopen;Bestellingen;;;onbekend;TAB;;;11128314;517;613;776;FALSE
+KEY;Inkopen;Bestellingen;;;onbekend;TAB;;;11128314;517;613;783;FALSE
+BUTTON;Inkopen;Bestellingen;;;onbekend;onbekend;;;16777215;939;789;1291;FALSE
+KEY;Inkopen;Bestellingen;;;onbekend;ENTER;;;16777215;939;789;2500;FALSE
+BUTTON;Inkopen;Bestellingen;;;btn_send;dd_pur_dd_pur_order_new_dlg_frm_wiz2;;;13685207;689;254;1306;FALSE
+BUTTON;Inkopen;Bestellingen;;;onbekend;onbekend;;;15198183;964;556;1285;FALSE
+INPUT;Inkopen;Bestellingen;;;onbekend;kiki@distridata.nl;;;16448250;754;360;788;FALSE
+BUTTON;Inkopen;Bestellingen;;;btn_save;dd_pur_dd_pur_order_new_dlg_frm_wiz2;;;15921908;617;258;2500;FALSE
+BUTTON;Inkopen;Bestellingen;;;btn_list;dd_pur_dd_pur_order_pan;;;11188171;469;59;1286;FALSE
+SLUIT;130;199

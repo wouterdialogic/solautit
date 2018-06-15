@@ -1,0 +1,69 @@
+Handig:
+
+##########################          Inloggen:
+Solidis test.exe
+naam: distrinl
+ww: Test_010
+omgeving: zegro
+
+JIRA:
+naam: Wouter Koppers
+pass: Wouter_010 of wouter_010
+
+##########################          Best practises:
+Voor selectievelden die moeilijk zijn:
+Tijdens het opnemen:
+ - rechtermuis klik
+ - selecteer iets
+ - doe een ALT+C voor een lege input
+ - controleer hoeveel tekens er nodig zijn voor een correcte input (voor later)
+ - druk op ENTER
+Na het opnemen
+ - Verwijder de "selecteer iets" regel
+ - Pas de input aan: doe een INPUT van een aantal tekens (afhankelijk hoeveel er nodig zijn voor precieze selectie)
+
+Voor een tijd veld:
+ - Een tijdveld wordt automatisch bijgevuld met 0900 --> 09:00 
+Tijdens het opnemen, 
+ - type 0900 in
+ - druk op ALT+C
+ - druk op TAB
+Na het opnemen, de tekst is door het programma aangepast naar 09
+ - pas de INPUT tekst aan naar 0900
+
+##########################          Geldig IBAN nummer:
+IBAN: DE89370400440532013000
+BTW: NL001234567B01
+BIC (SWIFT): INGBNL2A
+telefoon? werkt raar, gaat af en toe op rood ondanks dat het een correct nummer is.
+
+##########################          Verbetering Record / Play tools:
+Het script te laten pauzeren werkt niet / niet goed genoeg.
+
+##########################          Opmerkingen
+Tab lijkt niet altijd te werken? uitzoeken
+Bij het opvoeren van Leveranciers moeten sommige velden uniek zijn? btw nummer, IBAN, BIC?
+Bij het opvoeren van een tekst wat automatisch zelf wordt aangevuld, bijv besteltijd. 0900 --> 09:00 
+  uitzoeken of je 0900, alt+c moet doen of 09:00, alt+c
+
+
+##########################          Errors
+
+Hierdoor stopte het script met opnemen:
+
+487;510:SplitTekst
+493;257:~FIELD: fld_time_thurs ~FORMNAME: dd_sup_dd_sup_supplier_new_dlg_frm_wiz2 ~DATA:  ~DP: pur_time_thurs ~TYPE: TEXT_FIELD ~EDIT: TRUE ~WIDTH: 50 ~XPOS: 23 ~YPOS: 13, ~FIELD:fld_time_thurs~FORMNAME:dd_sup_dd_sup_supplier_new_dlg_frm_wiz2~DATA:~DP:pur_time_thurs~TYPE:TEXT_FIELD~EDIT:TRUE~WIDTH:50~XPOS:23~YPOS:13
+1:|  2:|FIELD 3:|fld_time_thurs 4:|FORMNAME 5:|dd_sup_dd_sup_supplier_new_dlg_frm_wiz2 6:|DATA 7:| 8:|DP 9:|pur_time_thurs 10:|TYPE 11:|TEXT_FIELD 12:|EDIT 13:|TRUE 14:|WIDTH 15:|50 16:|XPOS 17:|23 18:|YPOS 19:|13 20:|
+649;830-1-File2:Leveranciers, Leverancier, , , fld_time_thurs, dd_sup_dd_sup_supplier_new_dlg_frm_wiz2, , , 14734, 812, 796, 1328, EDIT
+"C:\Users\Test\Documents\Mijn AutotIt scripts\WriteTestScript.au3" (327) : ==> Array variable has incorrect number of subscripts or subscript dimension range exceeded.:
+$aClipboardGet[$iClipboardget] = $clipBoardGet
+^ ERROR
+694;4838: ReleaseKeys
+
+221;0:Start
+487;513:SplitTekst
+493;258:~FIELD: fld_time_thurs ~FORMNAME: dd_sup_dd_sup_supplier_new_dlg_frm_wiz2 ~DATA:  ~DP: pur_time_thurs ~TYPE: TEXT_FIELD ~EDIT: TRUE ~WIDTH: 50 ~XPOS: 9 ~YPOS: 11, ~FIELD:fld_time_thurs~FORMNAME:dd_sup_dd_sup_supplier_new_dlg_frm_wiz2~DATA:~DP:pur_time_thurs~TYPE:TEXT_FIELD~EDIT:TRUE~WIDTH:50~XPOS:9~YPOS:11
+1:|  2:|FIELD 3:|fld_time_thurs 4:|FORMNAME 5:|dd_sup_dd_sup_supplier_new_dlg_frm_wiz2 6:|DATA 7:| 8:|DP 9:|pur_time_thurs 10:|TYPE 11:|TEXT_FIELD 12:|EDIT 13:|TRUE 14:|WIDTH 15:|50 16:|XPOS 17:|9 18:|YPOS 19:|11 20:|
+649;825-1-File2:Leveranciers, Leverancier, , , fld_time_thurs, dd_sup_dd_sup_supplier_new_dlg_frm_wiz2, , , 7253247, 798, 789, 1323, EDIT
+"C:\Users\Test\Documents\Mijn AutotIt scripts\WriteTestScript.au3" (327) : ==> Array variable has incorrect number of subscripts or subscript dimension range exceeded.:
+$aClipboardGet[$iClipboardget] = $clipBoardGet

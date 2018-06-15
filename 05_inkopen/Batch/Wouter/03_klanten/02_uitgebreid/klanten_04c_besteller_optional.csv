@@ -1,0 +1,11 @@
+FIELD;;;;;fld_charterer_namec;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;725;644;1326;EDIT
+INPUT;;;;;fld_charterer_namec;Voornaam;;;13762559;725;644;776;FALSE
+FIELD;;;;;fld_charterer_phonec;dd_cust_dd_cust_customer_new_dlg_frm;;;16316664;715;656;1321;EDIT
+INPUT;;;;;fld_charterer_phonec;0613993563;;;7055352;715;656;770;FALSE
+FIELD;;;;;fld_charterer_namecc;dd_cust_dd_cust_customer_new_dlg_frm;;;16645629;1015;635;1311;EDIT
+INPUT;;;;;fld_charterer_namecc;E.A.;;;7253247;1015;635;782;FALSE
+FIELD;;;;;fld_charterer_nameccc;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1229;647;1316;EDIT
+INPUT;;;;;fld_charterer_nameccc;Achternaam;;;7253247;1229;647;784;FALSE
+FIELD;;;;;fld_charterer_mailc;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1097;670;1310;EDIT
+INPUT;;;;;fld_charterer_mailc;voornaam.achternaam@google.nl;;;7253247;1097;670;765;FALSE
+SLUIT;60;70

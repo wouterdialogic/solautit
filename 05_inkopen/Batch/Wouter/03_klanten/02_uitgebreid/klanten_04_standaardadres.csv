@@ -1,0 +1,10 @@
+FIELD;;;;;fld_standard_zipcode;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;706;397;1327;EDIT
+INPUT;;;;;fld_standard_zipcode;1742gb;;;7187455;706;397;786;FALSE
+FIELD;;;;;fld_standard_city;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;823;393;1321;EDIT
+INPUT;;;;;fld_standard_city;schagen;;;16448250;823;393;778;FALSE
+FIELD;;;;;fld_standard_address;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1072;393;1316;EDIT
+INPUT;;;;;fld_standard_address;zwaluwhof;;;13762559;1072;393;777;FALSE
+FIELD;;;;;fld_standard_addressNumber;dd_cust_dd_cust_customer_new_dlg_frm;;;16448250;1229;396;1330;EDIT
+INPUT;;;;;fld_standard_addressNumber;12;;;16448250;1229;396;793;FALSE
+FIELD;;;;;gMainAddress1;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1056;419;1325;EDIT
+SLUIT;37;61

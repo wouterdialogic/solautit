@@ -1,0 +1,8 @@
+FIELD;;;;;fld_dd_cust_delivery_zipcodec;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;688;560;1301;EDIT
+INPUT;;;;;fld_dd_cust_delivery_zipcodec;3514AX;;;13762559;688;560;770;FALSE
+FIELD;;;;;fld_dd_cust_delivery_city;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;781;564;1316;EDIT
+INPUT;;;;;fld_dd_cust_delivery_city;Utrecht;;;13762559;781;564;762;FALSE
+FIELD;;;;;fld_dd_cust_delivery_address;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1082;555;1328;EDIT
+INPUT;;;;;fld_dd_cust_delivery_address;Mariusweg;;;7253247;1082;555;771;FALSE
+FIELD;;;;;fld_dd_cust_delivery_addressNumber;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1221;566;1311;EDIT
+INPUT;;;;;fld_dd_cust_delivery_addressNumber;34;;;16777215;1221;566;782;FALSE

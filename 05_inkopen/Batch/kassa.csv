@@ -1,0 +1,17 @@
+NAV-HEADER;Kassa;;;;;;;;14857877;30;363;1293;FALSE
+NAV-HEADER;Kassa;;;;;;;;10921638;8;361;1306;FALSE
+NAV-ITEM;Kassa;Kassatouchscreen;;;;;;;6846873;80;390;1322;FALSE
+FIELD;Kassa;Kassatouchscreen;;;fld_inputField;dd_cash_dd_sale_invoice_pan;;;16777215;303;793;1318;EDIT
+PARAM;Kassa;Kassatouchscreen;;;fld_inputField;dd_cash_dd_sale_invoice_pan;;;13248003;303;793;771;FALSE
+PARAM;Kassa;Kassatouchscreen;;;fld_inputField;dd_cash_dd_sale_invoice_pan;;;13248003;303;793;781;FALSE
+PARAM;Kassa;Kassatouchscreen;;;fld_inputField;dd_cash_dd_sale_invoice_pan;;;13248003;303;793;771;FALSE
+FIELD;Kassa;Kassatouchscreen;;;fld_inputField;dd_cash_dd_sale_invoice_pan;;;16777215;375;791;1307;EDIT
+KEY;Kassa;Kassatouchscreen;;;fld_inputField;ENTER;;;16408604;375;791;768;FALSE
+PARAM;Kassa;Kassatouchscreen;;;fld_inputField;ENTER;;;16408604;375;791;779;FALSE
+FIELD;Kassa;Kassatouchscreen;;;fld_inputField;dd_cash_dd_sale_invoice_pan;;;16777215;375;791;1305;EDIT
+KEY;Kassa;Kassatouchscreen;;;fld_inputField;ENTER;;;16408604;375;791;2500;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;BTN_checkout;dd_cash_cash_register_buttons_top;;;4295139;1183;256;1307;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;btn_type2;dd_cash_dd_cash_payment_type_invoice_frm;;;10928612;483;404;1318;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;BTN_ok;dd_cash_cash_register_buttons_top;;;11060196;1469;261;1316;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;-NO-NAME-;dd_cash_dd_sale_invoice_question_e_factuur_frm;;;11978459;849;554;1313;FALSE
+SLUIT;70;347

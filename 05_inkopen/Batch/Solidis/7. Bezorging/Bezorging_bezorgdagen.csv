@@ -1,0 +1,7 @@
+NAV-HEADER;Bezorging;;;;;;;;16448250;53;852;1272;FALSE
+NAV-ITEM;Bezorging;Bezorgdagen;;;;;;;7122663;92;899;1270;FALSE
+LABEL;Bezorging;Bezorgdagen;;;btn_detail;;;;11128314;206;140;1287;COMBOBOX
+LABEL;Bezorging;Bezorgdagen;;;btn_detail;;;;4095700;208;390;1279;COMBOBOX
+BUTTON;Bezorging;Bezorgdagen;;;onbekend;onbekend;;;7167090;299;364;1278;FALSE
+NAV-ITEM;Bezorging;Bezorgdagen;;;;;;;16777215;93;899;1276;FALSE
+SLUIT;26;78

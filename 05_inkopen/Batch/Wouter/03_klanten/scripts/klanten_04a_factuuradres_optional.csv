@@ -1,0 +1,11 @@
+FIELD;;;;;fld_dd_cust_invoice_zipcode;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;722;481;1301;EDIT
+INPUT;;;;;fld_dd_cust_invoice_zipcode;3512AJ;;;16777215;722;481;769;FALSE
+FIELD;;;;;fld_dd_cust_invoice_city;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;819;476;1316;EDIT
+INPUT;;;;;fld_dd_cust_invoice_city;Tienhoven;;;16777215;819;476;779;FALSE
+FIELD;;;;;fld_dd_cust_invoice_address;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1064;481;1305;EDIT
+INPUT;;;;;fld_dd_cust_invoice_address;westbroeksebinnenweg;;;7253247;1064;481;789;FALSE
+FIELD;;;;;fld_dd_cust_invoice_streetNumber;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1219;474;1305;EDIT
+INPUT;;;;;fld_dd_cust_invoice_streetNumber;45;;;16448250;1219;474;782;FALSE
+FIELD;;;;;fld_dd_cust_invoice_streetNumberAdd;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;1287;483;1309;EDIT
+INPUT;;;;;fld_dd_cust_invoice_streetNumberAdd;a42;;;16777215;1287;483;770;FALSE
+SLUIT;70;100

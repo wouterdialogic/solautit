@@ -1,0 +1,11 @@
+NAV-HEADER;Artikelen;;;;;;;;16514004;52;117;1291;FALSE
+NAV-ITEM;Artikelen;Artikelen;;;;;;;16777215;91;135;1277;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_detail;dd_prod_dd_prod_product_tbl;;;7842024;203;135;1285;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;15133165;1404;420;1274;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_new;dd_prod_dd_prod_specific_customer_tbl;;;13225171;272;458;1274;FALSE
+FIELD;Artikelen;Artikelen;;;fld_customer_id;dd_prod_dd_prod_specific_customer_new_dlg;;;16777215;809;451;1289;EDIT
+INPUT;Artikelen;Artikelen;;;fld_customer_id;010011390;;;16777215;809;451;774;FALSE
+KEY;Artikelen;Artikelen;;;fld_customer_id;ENTER;;;16777215;809;451;781;FALSE
+FIELD;Artikelen;Artikelen;;;fld_stock;dd_prod_dd_prod_specific_customer_new_dlg;;;16777215;793;491;1277;EDIT
+BUTTON;Artikelen;Artikelen;;;btn_save;dd_prod_dd_prod_specific_customer_new_dlg;;;15198958;679;395;1287;FALSE
+SLUIT;42;52

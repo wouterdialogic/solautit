@@ -1,0 +1,13 @@
+NAV-HEADER;Klanten;;;;;;;;16448250;33;299;1281;FALSE
+NAV-ITEM;Klanten;Klanten;;;;;;;10253972;71;320;1281;FALSE
+BUTTON;Klanten;Klanten;;;btn_detail;dd_cust_dd_cust_customer_lst;;;7052252;206;139;1297;FALSE
+TAB;Klanten;Klanten;Bestelformulier;;;dd_cust_dd_cust_customer_pan;3;13;15856629;424;379;1281;FALSE
+BUTTON;Klanten;Klanten;Bestelformulier;;btn_new;dd_cust_dd_cust_orderform_tbl;3;13;13224915;250;417;1281;FALSE
+FIELD;Klanten;Klanten;Bestelformulier;;-NO-NAME-;dd_cust_dd_cust_orderform_new_dlg_frm;3;13;16316664;790;401;1281;EDIT
+INPUT;Klanten;Klanten;Bestelformulier;;-NO-NAME-;Testscript;3;13;16316664;790;401;762;FALSE
+FIELD;Klanten;Klanten;Bestelformulier;;fld_inputField_tab_prod;dd_cust_dd_cust_orderform_new_dlg_lst_frm;3;13;16777215;622;558;1282;EDIT
+KEY;Klanten;Klanten;Bestelformulier;;fld_inputField_tab_prod;ENTER;3;13;16777215;622;558;756;FALSE
+KEY;Klanten;Klanten;Bestelformulier;;fld_inputField_tab_prod;ENTER;3;13;16777215;622;558;765;FALSE
+INPUT;Klanten;Klanten;Bestelformulier;;fld_inputField_tab_prod;011030496;3;13;10544383;622;558;746;FALSE
+KEY;Klanten;Klanten;Bestelformulier;;fld_inputField_tab_prod;ENTER;3;13;16777215;622;558;766;FALSE
+BUTTON;Klanten;Klanten;Bestelformulier;;btn_save;dd_cust_dd_cust_orderform_new_dlg_frm;3;13;16777215;669;338;1281;FALSE

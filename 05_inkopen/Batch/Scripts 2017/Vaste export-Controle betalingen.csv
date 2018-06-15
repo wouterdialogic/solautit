@@ -1,0 +1,16 @@
+NAV-HEADER;Verkopen;;;;;;;;16448250;59;733;1286;FALSE
+NAV-ITEM;Verkopen;Facturen;;;;;;;9026793;87;856;1296;FALSE
+LABEL;Verkopen;Facturen;;;btn_search_find;;;;16777215;1680;63;2500;COMBOBOX
+FIELD;Verkopen;Facturen;;;item_operator;search_stb_search_item_frm;;;15659508;1006;327;1287;EDIT
+BUTTON;Verkopen;Facturen;;;onbekend;onbekend;;;16777215;992;406;1286;FALSE
+BUTTON;Verkopen;Facturen;;;onbekend;onbekend;;;12831442;1144;324;1288;FALSE
+BUTTON;Verkopen;Facturen;;;onbekend;onbekend;;;15068408;934;532;1270;FALSE
+BUTTON;Verkopen;Facturen;;;onbekend;onbekend;;;16777215;1048;649;1281;FALSE
+BUTTON;Verkopen;Facturen;;;btn_search;search_stb_search_tab;;;13619928;1305;814;1304;FALSE
+BUTTON;Verkopen;Facturen;;;btn_export;dd_sale_dd_sale_invoice_lst_frm;;;4103913;518;59;1283;FALSE
+SUB-TAB;Verkopen;Facturen;;Vasteexport;;exp_export_dlg;3;3;15922422;920;245;1300;FALSE
+BUTTON;Verkopen;Facturen;;Vasteexport;btn_export;exp_fixed_export_dlg_frm;3;3;13817051;1295;815;1291;FALSE
+BUTTON;Verkopen;Facturen;;Vasteexport;onbekend;onbekend;3;3;16777215;1225;688;1294;FALSE
+BUTTON;Verkopen;Facturen;;Vasteexport;onbekend;onbekend;3;3;16777215;903;550;1293;FALSE
+BUTTON;Verkopen;Facturen;;Vasteexport;onbekend;onbekend;3;3;16777215;882;552;1279;FALSE
+SLUIT;69;72

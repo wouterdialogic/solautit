@@ -1,0 +1,4 @@
+FIELD;Leveranciers;Leverancier;;;account_nr_req;dd_sup_dd_sup_supplier_new_dlg_frm_wiz2;;;16777215;1212;522;1305;EDIT
+INPUT;Leveranciers;Leverancier;;;account_nr_req;NL12SNSB0123456789;;;16777215;1212;522;782;FALSE
+KEY;Leveranciers;Leverancier;;;account_nr_req;TAB;;;16777215;1212;522;773;FALSE
+SLUIT;54;110

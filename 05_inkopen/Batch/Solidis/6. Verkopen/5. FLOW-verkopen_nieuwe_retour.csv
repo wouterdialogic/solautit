@@ -1,0 +1,17 @@
+NAV-HEADER;Verkopen;;;;;;;;16448250;35;671;1278;FALSE
+NAV-ITEM;Verkopen;Retour;;;;;;;8163251;107;741;1280;FALSE
+BUTTON;Verkopen;Retour;;;btn_new_single;dd_sale_dd_sale_return_lst_frm;;;11385232;683;67;1281;FALSE
+INPUT;Verkopen;Retour;;;btn_new_single;030250595;;;11977367;683;67;771;FALSE
+KEY;Verkopen;Retour;;;btn_new_single;ENTER;;;11977367;683;67;776;FALSE
+BUTTON;Verkopen;Retour;;;btn_forward;dd_sale_dd_sale_return_new_dlg_frm_wiz1;;;15132653;668;335;1299;FALSE
+FIELD;Verkopen;Retour;;;fld_pay_method_req;dd_sale_dd_sale_return_new_dlg_frm_wiz1;;;15659508;799;474;1285;EDIT
+BUTTON;Verkopen;Retour;;;onbekend;onbekend;;;15198958;773;555;1275;FALSE
+FIELD;Verkopen;Retour;;;fld_warehouseLocation_req;dd_sale_dd_sale_return_new_dlg_frm_wiz1;;;6514025;720;519;1283;EDIT
+BUTTON;Verkopen;Retour;;;btn_forward;dd_sale_dd_sale_return_new_dlg_frm_wiz1;;;15724786;669;343;1282;FALSE
+FIELD;Verkopen;Retour;;;fld_inputField_tab_prod;dd_sale_dd_sale_return_new_dlg_lst_frm;;;16777215;603;556;1284;EDIT
+INPUT;Verkopen;Retour;;;fld_inputField_tab_prod;011030496;;;7253247;603;556;774;FALSE
+KEY;Verkopen;Retour;;;fld_inputField_tab_prod;ENTER;;;16777215;603;556;2500;FALSE
+FIELD;Verkopen;Retour;;;fld_return_reason_req;dd_sale_dd_sale_return_new_dlg_frm_wiz2;;;15659508;741;452;1279;EDIT
+BUTTON;Verkopen;Retour;;;onbekend;onbekend;;;15198958;741;473;1279;FALSE
+BUTTON;Verkopen;Retour;;;btn_handling;dd_sale_dd_sale_return_new_dlg_frm_wiz2;;;0;746;341;1282;FALSE
+SLUIT;71;192

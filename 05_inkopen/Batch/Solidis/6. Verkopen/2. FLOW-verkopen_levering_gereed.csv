@@ -1,0 +1,17 @@
+NAV-HEADER;Verkopen;;;;;;;;16448250;55;674;1288;FALSE
+NAV-ITEM;Verkopen;Leveringen;;;;;;;16777199;115;717;1285;FALSE
+LABEL;Verkopen;Leveringen;;;btn_search_find;;;;16777215;1680;62;1286;COMBOBOX
+FIELD;Verkopen;Leveringen;;;stb_relation_id;search_stb_search_item_frm;;;15791094;768;299;1273;EDIT
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;16777215;759;383;1276;FALSE
+FIELD;Verkopen;Leveringen;;;stb_field_id;search_stb_search_item_frm;;;15462128;769;332;1288;EDIT
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;16777215;765;370;1284;FALSE
+FIELD;Verkopen;Leveringen;;;item_operator;search_stb_search_item_frm;;;15659766;938;321;1276;EDIT
+FIELD;Verkopen;Leveringen;;;item_operator;search_stb_search_item_frm;;;15593715;961;329;1287;EDIT
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;14869738;959;348;1283;FALSE
+FIELD;Verkopen;Leveringen;;;criteria_integer_valuelist;search_stb_search_item_frm;;;15659508;1092;328;1281;EDIT
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;15198958;1055;350;1276;FALSE
+BUTTON;Verkopen;Leveringen;;;btn_search;search_stb_search_tab;;;3375046;1316;815;1291;FALSE
+BUTTON;Verkopen;Leveringen;;;btn_detail;dd_sale_dd_sale_orderpick_lst;;;11128314;200;138;2500;FALSE
+BUTTON;Verkopen;Leveringen;;;btn_ready;dd_sale_dd_sale_orderpick_pan;;;11845843;770;64;1283;FALSE
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;16777215;940;555;1291;FALSE
+SLUIT;73;137

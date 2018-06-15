@@ -1,0 +1,10 @@
+NAV-HEADER;Artikelen;;;;;;;;6319744;50;114;1280;FALSE
+NAV-ITEM;Artikelen;Artikelen;;;;;;;10394301;84;136;1286;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_detail;dd_prod_dd_prod_product_tbl;;;3897030;206;136;1279;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;5201523;803;420;1279;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_new_single;dd_prod_dd_prod_supplier_tbl;;;16777215;259;460;1280;FALSE
+INPUT;Artikelen;Artikelen;;;btn_new_single;heineken;;;16777215;259;460;767;FALSE
+KEY;Artikelen;Artikelen;;;btn_new_single;ENTER;;;16777215;259;460;760;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;11128314;514;339;1267;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;16777215;924;797;1276;FALSE
+SLUIT;38;299

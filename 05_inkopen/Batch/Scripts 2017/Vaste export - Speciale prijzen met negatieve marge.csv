@@ -1,0 +1,11 @@
+NAV-HEADER;Klanten;;;;;;;;6319744;59;314;1295;FALSE
+NAV-ITEM;Klanten;Specialeprijzen;;;;;;;9026793;96;396;1294;FALSE
+BUTTON;Klanten;Specialeprijzen;;;btn_export;dd_cust_dd_cust_spec_price_lst_frm;;;10332603;539;58;1285;FALSE
+BUTTON;Klanten;Specialeprijzen;;;onbekend;onbekend;;;15133165;927;252;1289;FALSE
+FIELD;Klanten;Specialeprijzen;;;fld_exportName;exp_fixed_export_tbl;;;11128314;736;305;1291;EDIT
+BUTTON;Klanten;Specialeprijzen;;;btn_export;exp_fixed_export_dlg_frm;;;15987701;1320;817;1292;FALSE
+BUTTON;Klanten;Specialeprijzen;;;onbekend;onbekend;;;11980785;1199;686;1295;FALSE
+BUTTON;Klanten;Specialeprijzen;;;onbekend;onbekend;;;16777215;1203;685;1299;FALSE
+BUTTON;Klanten;Specialeprijzen;;;onbekend;onbekend;;;16777215;889;555;2500;FALSE
+BUTTON;Klanten;Specialeprijzen;;;onbekend;onbekend;;;16777215;915;555;1284;FALSE
+SLUIT;49;42

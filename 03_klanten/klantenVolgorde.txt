@@ -1,0 +1,16 @@
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_01_menu_openen.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_02_nieuw.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_03_primaire_gegevens.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_04_standaardadres.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_04a_factuuradres_optional.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_04b_bezorgadres_optional.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_04c_besteller_optional.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_04d_contactpersson_en_overeenkomst.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_04z_druk_volgende.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_05_klantroutes.csv
+C:\Users\Test\Documents\Batch\Wouter\03_klanten\02_uitgebreid\klanten_10_opslaan.csv
+
+Ter info, sommige scripts staan met elkaar in verbinding.
+Als er EN een standaardadres en een bezorgadres staan genoteerd, wordt de knop bewaar veranderd van bewaar naar volgende
+En kan er op volgende worden geklikt
+Dan is scherm 5 beschikbaar, anders niet.

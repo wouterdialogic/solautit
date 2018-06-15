@@ -1,0 +1,17 @@
+NAV-HEADER;Leveranciers;;;;;;;;16448250;60;458;1285;FALSE
+NAV-ITEM;Leveranciers;Leverancier;;;;;;;9281216;91;475;1277;FALSE
+BUTTON;Leveranciers;Leverancier;;;btn_detail;dd_sup_dd_sup_supplier_lst;;;11128314;221;141;1281;FALSE
+BUTTON;Leveranciers;Leverancier;;;btn_detail;dd_sup_dd_sup_supplier_lst;;;16777215;205;140;1280;FALSE
+TAB;Leveranciers;Leverancier;Leverancierskortingen;;;dd_sup_dd_sup_supplier_pan;6;11;5201523;716;371;1271;FALSE
+TAB;Leveranciers;Leverancier;Organisatie;;;dd_sup_dd_sup_supplier_pan;8;11;5135497;888;373;1288;FALSE
+BUTTON;Leveranciers;Leverancier;Organisatie;;btn_establishmentSupplier;dd_core_dd_core_organisation_tbl;8;11;16645630;470;425;1277;FALSE
+BUTTON;Leveranciers;Leverancier;Organisatie;;onbekend;onbekend;8;11;16777215;446;266;1272;FALSE
+INPUT;Leveranciers;Leverancier;Organisatie;;onbekend;heineken;8;11;7187455;446;266;772;FALSE
+KEY;Leveranciers;Leverancier;Organisatie;;onbekend;ENTER;8;11;8902399;446;266;778;FALSE
+BUTTON;Leveranciers;Leverancier;Organisatie;;onbekend;onbekend;8;11;11128314;534;336;1288;FALSE
+BUTTON;Leveranciers;Leverancier;Organisatie;;onbekend;onbekend;8;11;16777215;938;784;1278;FALSE
+NAV-HEADER;Leveranciers;;;;;;;;8107494;45;454;1276;FALSE
+NAV-ITEM;Leveranciers;Leverancier;;;;;;;7636909;98;484;1282;FALSE
+NAV-ITEM;Leveranciers;Leverancier;;;;;;;4542565;106;482;1282;FALSE
+BUTTON;Leveranciers;Leverancier;;;btn_refresh;dd_sup_dd_sup_supplier_lst_frm;;;11977170;444;72;1276;FALSE
+SLUIT;68;84

@@ -1,0 +1,13 @@
+NAV-HEADER;Inkopen;;;;;;;;13344639;40;518;1281;FALSE
+NAV-ITEM;Inkopen;Bestellingen;;;;;;;5002910;77;537;1297;FALSE
+BUTTON;Inkopen;Bestellingen;;;btn_detail;dd_pur_dd_pur_order_lst;;;16777215;203;138;1297;FALSE
+TAB;Inkopen;Bestellingen;Communicatie;;;dd_pur_dd_pur_order_pan;2;2;10343148;320;368;1281;FALSE
+FIELD;Inkopen;Bestellingen;Communicatie;;-NO-NAME-;dd_pur_dd_pur_order_communication_frm;2;2;16448250;790;428;1282;EDIT
+INPUT;Inkopen;Bestellingen;Communicatie;;-NO-NAME-;KopKoptekstKoptekstKopteksttekst;2;2;7253247;790;428;747;FALSE
+FIELD;Inkopen;Bestellingen;Communicatie;;-NO-NAME-;dd_pur_dd_pur_order_communication_frm;2;2;0;776;526;1281;EDIT
+INPUT;Inkopen;Bestellingen;Communicatie;;-NO-NAME-;VoettekstVVoettekst;2;2;16777215;776;526;747;FALSE
+FIELD;Inkopen;Bestellingen;Communicatie;;-NO-NAME-;dd_pur_dd_pur_order_communication_frm;2;2;16448250;745;615;1281;EDIT
+INPUT;Inkopen;Bestellingen;Communicatie;;-NO-NAME-;DetaDetailil;2;2;7253247;745;615;776;FALSE
+NAV-HEADER;Inkopen;;;;;;;;9923967;49;521;1281;FALSE
+NAV-ITEM;Inkopen;Bestellingen;;;;;;;9281216;81;535;1281;FALSE
+SLUIT;50;132

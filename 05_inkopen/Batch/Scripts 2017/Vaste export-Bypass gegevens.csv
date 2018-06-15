@@ -1,0 +1,16 @@
+NAV-HEADER;Artikelen;;;;;;;;16514004;58;116;1287;FALSE
+NAV-ITEM;Artikelen;Artikelen;;;;;;;5076921;63;138;1289;FALSE
+LABEL;Artikelen;Artikelen;;;btn_search_find;;;;16777215;1680;63;1270;COMBOBOX
+FIELD;Artikelen;Artikelen;;;stb_field_id;search_stb_search_item_frm;;;15856887;851;324;1287;EDIT
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;16777215;826;628;1279;FALSE
+FIELD;Artikelen;Artikelen;;;criteria_integer_valuelist;search_stb_search_item_frm;;;15396595;1115;324;1283;EDIT
+FIELD;Artikelen;Artikelen;;;criteria_integer_valuelist;search_stb_search_item_frm;;;15593715;1205;329;1284;EDIT
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;16777215;1122;486;1289;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_search;search_stb_search_tab;;;12304070;1300;806;1271;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_export;dd_prod_dd_prod_product_lst_frm;;;10463932;538;60;1287;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;5201523;901;252;1278;FALSE
+FIELD;Artikelen;Artikelen;;;fld_exportName;exp_fixed_export_tbl;;;11128314;745;301;1283;EDIT
+BUTTON;Artikelen;Artikelen;;;btn_export;exp_fixed_export_dlg_frm;;;13685464;1319;808;1286;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;16777215;1203;684;1291;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;16777215;904;555;1293;FALSE
+SLUIT;66;95

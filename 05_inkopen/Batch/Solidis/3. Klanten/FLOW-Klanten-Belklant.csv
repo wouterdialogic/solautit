@@ -1,0 +1,17 @@
+NAV-HEADER;Klanten;;;;;;;;14923670;38;297;1271;FALSE
+NAV-ITEM;Klanten;Klanten;;;;;;;5134445;71;317;1287;FALSE
+LABEL;Klanten;Klanten;;;btn_search_arrow_down;;;;0;1692;67;1282;COMBOBOX
+BUTTON;Klanten;Klanten;;;onbekend;onbekend;;;11128314;1746;542;1290;FALSE
+FIELD;Klanten;Klanten;;;fld_search_gSearchText;search_search_menu_frm;;;16777215;1748;59;1301;EDIT
+INPUT;Klanten;Klanten;;;fld_search_gSearchText;100120;;;16777215;1748;59;782;FALSE
+KEY;Klanten;Klanten;;;fld_search_gSearchText;ENTER;;;16777215;1748;59;782;FALSE
+BUTTON;Klanten;Klanten;;;btn_detail;dd_cust_dd_cust_customer_lst;;;6454945;201;138;1500;FALSE
+BUTTON;Klanten;Klanten;;;btn_detail;dd_cust_dd_cust_customer_lst;;;6454945;201;138;1500;FALSE
+TAB;Klanten;Klanten;Belklant;;;dd_cust_dd_cust_customer_pan;8;14;15133127;862;376;1285;FALSE
+FIELD;Klanten;Klanten;Belklant;;fld_monday;dd_cust_dd_cust_customer_callcustomer_frm;8;14;16579836;330;453;1300;EDIT
+FIELD;Klanten;Klanten;Belklant;;fld_mon_hour1;dd_cust_dd_cust_customer_callcustomer_frm;8;14;16777143;372;453;1288;EDIT
+INPUT;Klanten;Klanten;Belklant;;fld_mon_hour1;1600;8;14;7253247;372;453;787;FALSE
+FIELD;Klanten;Klanten;Belklant;;fld_mon_extra_info;dd_cust_dd_cust_customer_callcustomer_frm;8;14;16777215;563;450;1292;EDIT
+INPUT;Klanten;Klanten;Belklant;;fld_mon_extra_info;test;8;14;16777215;563;450;781;FALSE
+BUTTON;Klanten;Klanten;Belklant;;btn_list;dd_cust_dd_cust_customer_pan;8;14;11319756;460;60;1298;FALSE
+SLUIT;62;149;;;;;;;;;;;

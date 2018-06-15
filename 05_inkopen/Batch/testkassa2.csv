@@ -1,0 +1,14 @@
+NAV-HEADER;Kassa;;;;;;;;16448250;10;367;1296;FALSE
+NAV-ITEM;Kassa;Kassatouchscreen;;;;;;;8557751;55;387;1301;FALSE
+NAV-ITEM;Kassa;Kassatouchscreen;;;;;;;9807302;74;380;1302;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;BTN_cancel;dd_cash_cash_register_buttons_top;;;15922423;1569;255;1325;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;BTN_customerSearch;dd_cash_cash_register_buttons_right;;;5111808;1850;395;1305;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;BTN_customerSearch;dd_cash_cash_register_buttons_right;;;11125733;1846;408;1317;FALSE
+FIELD;Kassa;Kassatouchscreen;;;fld_customer_name;dd_cash_dd_cust_customer_tbl;;;16777215;499;484;1313;EDIT
+BUTTON;Kassa;Kassatouchscreen;;;BTN_productSearch;dd_cash_cash_register_buttons_right;;;10731492;1687;401;1312;FALSE
+FIELD;Kassa;Kassatouchscreen;;;fld_full_description;dd_cash_dd_prod_product_searchNumber_tbl;;;11128314;519;496;2500;EDIT
+BUTTON;Kassa;Kassatouchscreen;;;BTN_checkout;dd_cash_cash_register_buttons_top;;;11257060;1176;266;2500;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;btn_type2;dd_cash_dd_cash_payment_type_invoice_frm;;;11585508;455;422;1316;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;BTN_ok;dd_cash_cash_register_buttons_top;;;10665956;1424;254;1313;FALSE
+BUTTON;Kassa;Kassatouchscreen;;;-NO-NAME-;dd_cash_dd_sale_invoice_question_e_factuur_frm;;;12043734;864;544;1308;FALSE
+SLUIT;64;76

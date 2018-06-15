@@ -1,0 +1,16 @@
+BUTTON;;;;;btn_save;dd_cust_dd_cust_customer_new_dlg_frm;;;15132653;677;241;1318;FALSE
+FIELD;;;;;fld_customerName_req;dd_cust_dd_cust_customer_new_dlg_frm;;;16777215;763;295;1313;EDIT
+INPUT;;;;;fld_customerName_req;KoppersINC;;;16777215;763;295;784;FALSE
+FIELD;;;;;fld_legal_form;dd_cust_dd_cust_customer_new_dlg_frm;;;15790837;760;317;1313;EDIT
+BUTTON;;;;;onbekend;onbekend;;;15198958;748;355;1325;FALSE
+FIELD;;;;;fld_branche_req;dd_cust_dd_cust_customer_new_dlg_frm;;;15528179;1094;298;1318;EDIT
+BUTTON;;;;;onbekend;onbekend;;;13554391;1100;338;1323;FALSE
+FIELD;;;;;fld_accountmanager_req;dd_cust_dd_cust_customer_new_dlg_frm;;;15264494;1100;324;1316;EDIT
+BUTTON;;;;;onbekend;onbekend;;;15198958;1104;357;1314;FALSE
+FIELD;;;;;currency_req;dd_cust_dd_cust_customer_new_dlg_frm;;;15396337;1096;339;1314;EDIT
+BUTTON;;;;;onbekend;onbekend;;;15198958;1093;366;1311;FALSE
+FIELD;;;;;language_req;dd_cust_dd_cust_customer_new_dlg_frm;;;15856631;1196;336;1320;EDIT
+BUTTON;;;;;onbekend;onbekend;;;15198958;1188;360;1314;FALSE
+BUTTON;;;;;btn_save;dd_cust_dd_cust_customer_new_dlg_frm;;;15132653;676;238;1312;FALSE
+BUTTON;;;;;onbekend;onbekend;;;15198958;959;554;1324;FALSE
+SLUIT;65;61

@@ -1,0 +1,5 @@
+FIELD;;;;;fld_price_rate;dd_prod_dd_prod_product_new_dlg_frm_price_tab;;;14869738;1263;634;1323;EDIT
+LABEL;;;;;BTN_priceRate;;;;15988216;1215;638;1315;COMBOBOX
+INPUT;;;;;BTN_priceRate;48;;;15988216;1215;638;771;FALSE
+BUTTON;;;;;onbekend;onbekend;;;14146274;922;549;1321;FALSE
+SLUIT;25;49

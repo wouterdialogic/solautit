@@ -1,0 +1,13 @@
+NAV-HEADER;Artikelen;;;;;;;;16448250;55;120;1273;FALSE
+NAV-ITEM;Artikelen;Artikelen;;;;;;;14005426;105;141;1278;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_detail;dd_prod_dd_prod_product_tbl;;;4029907;204;138;1292;FALSE
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;15133165;732;427;1277;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_link;dd_prod_dd_prod_webshop_cat_link_tbl;;;14212065;286;458;1291;FALSE
+FIELD;Artikelen;Artikelen;;;webshop_cat1_req;dd_prod_dd_prod_webshop_cat_link_new_dlg;;;15659508;1010;426;1300;EDIT
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;15791094;946;468;1272;FALSE
+FIELD;Artikelen;Artikelen;;;webshop_cat2_req;dd_prod_dd_prod_webshop_cat_link_new_dlg;;;15922423;975;444;1283;EDIT
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;15198958;927;491;1280;FALSE
+FIELD;Artikelen;Artikelen;;;webshop_cat3_req;dd_prod_dd_prod_webshop_cat_link_new_dlg;;;15593715;955;472;1281;EDIT
+BUTTON;Artikelen;Artikelen;;;onbekend;onbekend;;;15198958;915;510;1290;FALSE
+BUTTON;Artikelen;Artikelen;;;btn_save;dd_prod_dd_prod_webshop_cat_link_new_dlg;;;15198958;791;375;1277;FALSE
+SLUIT;52;3775

@@ -1,0 +1,5 @@
+BUTTON;;;;;btn_new;dd_sup_dd_sup_supplier_lst_frm;;;10266810;690;59;1320;FALSE
+INPUT;;;;;btn_new;uitgebreidleverancier;;;11911378;690;59;780;FALSE
+KEY;;;;;btn_new;TAB;;;11911378;690;59;785;FALSE
+BUTTON;;;;;btn_nextStep;dd_sup_dd_sup_supplier_new_dlg_frm_wiz1;;;5832757;603;160;1318;FALSE
+SLUIT;17;30

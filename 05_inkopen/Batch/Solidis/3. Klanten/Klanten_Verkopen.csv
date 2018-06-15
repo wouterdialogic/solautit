@@ -1,0 +1,9 @@
+NAV-HEADER;Klanten;;;;;;;;11592954;-1870;295
+NAV-ITEM;Klanten;Klanten;;;;;;;8557752;-1842;319
+BUTTON;Klanten;Klanten;;;btn_detail;dd_cust_dd_cust_customer_lst;;;8757185;-1718;385
+TAB;Klanten;Klanten;Verkopen;;;dd_cust_dd_cust_customer_pan;4;14;8765165;-1380;374
+SUB-TAB;Klanten;Klanten;Verkopen;Bestellingen;;dd_cust_dd_cust_customer_sales_tab;2;5;15133127;-1564;414
+BUTTON;Klanten;Klanten;Verkopen;Bestellingen;btn_new_single;dd_sale_dd_sale_order_tbl;2;5;5026089;-1673;455
+BUTTON;Klanten;Klanten;Verkopen;Bestellingen;btn_detail;onbekend;2;5;3538944;-1001;565
+BUTTON;Klanten;Klanten;Verkopen;Bestellingen;btn_detail;onbekend;2;5;15208739;-502;253
+BUTTON;Klanten;Klanten;Verkopen;Bestellingen;btn_list;dd_cust_dd_cust_customer_pan;2;5;12969213;-1471;61

@@ -1,0 +1,14 @@
+NAV-HEADER;Verkopen;;;;;;;;6266836;71;737;1302;FALSE
+NAV-ITEM;Verkopen;Leveringen;;;;;;;16777193;81;776;1290;FALSE
+BUTTON;Verkopen;Leveringen;;;btn_new_single;dd_sale_dd_sale_orderpick_lst_frm;;;10595775;703;61;1283;FALSE
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;13685205;792;302;1287;FALSE
+INPUT;Verkopen;Leveringen;;;onbekend;*;;;14409187;792;302;779;FALSE
+KEY;Verkopen;Leveringen;;;onbekend;ENTER;;;14409187;792;302;768;FALSE
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;11062461;756;512;1281;FALSE
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;15198958;928;788;1288;FALSE
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;12680756;611;258;1287;FALSE
+FIELD;Verkopen;Leveringen;;;fld_quantity;dd_sale_dd_sale_orderpick_reg_dlg_lst;;;11128314;1225;521;1274;EDIT
+INPUT;Verkopen;Leveringen;;;fld_quantity;12;;;11128314;1225;521;766;FALSE
+BUTTON;Verkopen;Leveringen;;;btn_save;dd_sale_dd_sale_orderpick_reg_dlg_frm_wiz2;;;11128314;596;254;1280;FALSE
+BUTTON;Verkopen;Leveringen;;;onbekend;onbekend;;;16777215;982;553;1280;FALSE
+SLUIT;55;56

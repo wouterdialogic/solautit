@@ -1,0 +1,12 @@
+NAV-HEADER;Klanten;;;;;;;;16448250;62;315;1274;FALSE
+NAV-ITEM;Klanten;Klanten;;;;;;;14876671;70;341;1283;FALSE
+BUTTON;Klanten;Klanten;;;btn_export;dd_cust_dd_cust_customer_lst_frm;;;11382;535;62;1280;FALSE
+SUB-TAB;Klanten;Klanten;;Vasteexport;;exp_export_dlg;3;3;15133165;912;257;1289;FALSE
+FIELD;Klanten;Klanten;;Vasteexport;fld_exportName;exp_fixed_export_tbl;3;3;3289650;696;406;1295;EDIT
+BUTTON;Klanten;Klanten;;Vasteexport;btn_export;exp_fixed_export_dlg_frm;3;3;13949151;1310;809;1301;FALSE
+BUTTON;Klanten;Klanten;;Vasteexport;btn_export;exp_fixed_export_dlg_frm;3;3;3504556;1291;809;1283;FALSE
+BUTTON;Klanten;Klanten;;Vasteexport;onbekend;onbekend;3;3;16777215;1226;683;1300;FALSE
+BUTTON;Klanten;Klanten;;Vasteexport;onbekend;onbekend;3;3;16777215;887;547;1275;FALSE
+BUTTON;Klanten;Klanten;;Vasteexport;onbekend;onbekend;3;3;16777215;879;544;1274;FALSE
+BUTTON;Klanten;Klanten;;Vasteexport;onbekend;onbekend;3;3;1793337;1754;234;1279;FALSE
+SLUIT;48;81

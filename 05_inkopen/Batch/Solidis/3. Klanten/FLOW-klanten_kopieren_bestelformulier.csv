@@ -1,0 +1,12 @@
+NAV-HEADER;Klanten;;;;;;;;11575167;48;298;1281;FALSE
+NAV-ITEM;Klanten;Klanten;;;;;;;14137526;81;319;1281;FALSE
+BUTTON;Klanten;Klanten;;;btn_detail;dd_cust_dd_cust_customer_lst;;;16777215;206;139;1281;FALSE
+TAB;Klanten;Klanten;Bestelformulier;;;dd_cust_dd_cust_customer_pan;3;13;15133165;450;377;1281;FALSE
+BUTTON;Klanten;Klanten;Bestelformulier;;btn_copy;dd_cust_dd_cust_orderform_tbl;3;13;14738408;350;420;1297;FALSE
+INPUT;Klanten;Klanten;Bestelformulier;;btn_copy;010021299;3;13;14738408;350;420;762;FALSE
+FIELD;Klanten;Klanten;Bestelformulier;;fld_inputField_tab_cust;dd_cust_dd_cust_orderform_copy_dlg;3;13;16777215;932;427;1281;EDIT
+KEY;Klanten;Klanten;Bestelformulier;;fld_inputField_tab_cust;ENTER;3;13;16777215;932;427;750;FALSE
+FIELD;Klanten;Klanten;Bestelformulier;;-NO-NAME-;dd_cust_dd_cust_orderform_copy_dlg;3;13;16777215;889;532;1297;EDIT
+INPUT;Klanten;Klanten;Bestelformulier;;-NO-NAME-;Testomschrijving;3;13;7253247;889;532;747;FALSE
+BUTTON;Klanten;Klanten;Bestelformulier;;btn_save;dd_cust_dd_cust_orderform_copy_dlg;3;13;13488084;790;373;1281;FALSE
+SLUIT;46;123
