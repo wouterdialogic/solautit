@@ -1,9 +1,0 @@
-NAV-HEADER;Verkopen;;;;;;;;14809593;55;740;1298;FALSE
-NAV-ITEM;Verkopen;Acties;;;;;;;14921606;69;837;1279;FALSE
-BUTTON;Verkopen;Acties;;;btn_export;dd_sale_dd_sale_leaflet_lst_frm;;;10266810;534;59;1284;FALSE
-SUB-TAB;Verkopen;Acties;;Vasteexport;;exp_export_dlg;3;3;5201523;936;250;1298;FALSE
-BUTTON;Verkopen;Acties;;Vasteexport;btn_export;exp_fixed_export_dlg_frm;3;3;6357047;1298;811;1290;FALSE
-BUTTON;Verkopen;Acties;;Vasteexport;btn_export;exp_fixed_export_dlg_frm;3;3;5351660;1282;810;1290;FALSE
-BUTTON;Verkopen;Acties;;Vasteexport;onbekend;onbekend;3;3;16777215;1221;683;1292;FALSE
-BUTTON;Verkopen;Acties;;Vasteexport;onbekend;onbekend;3;3;16777215;915;551;1281;FALSE
-SLUIT;36;55

@@ -1,9 +1,0 @@
-NAV-HEADER;Verkopen;;;;;;;;16448250;47;737;1297;FALSE
-NAV-ITEM;Verkopen;Leveringen;;;;;;;9018057;74;776;1298;FALSE
-BUTTON;Verkopen;Leveringen;;;btn_export;dd_sale_dd_sale_orderpick_lst_frm;;;10595775;524;61;1287;FALSE
-SUB-TAB;Verkopen;Leveringen;;Vasteexport;;exp_export_dlg;3;3;5201523;913;254;1296;FALSE
-FIELD;Verkopen;Leveringen;;Vasteexport;fld_exportName;exp_fixed_export_tbl;3;3;11128314;776;303;1296;EDIT
-BUTTON;Verkopen;Leveringen;;Vasteexport;btn_export;exp_fixed_export_dlg_frm;3;3;13685721;1306;808;1277;FALSE
-BUTTON;Verkopen;Leveringen;;Vasteexport;onbekend;onbekend;3;3;16777215;1222;680;1286;FALSE
-BUTTON;Verkopen;Leveringen;;Vasteexport;onbekend;onbekend;3;3;16777215;913;555;1282;FALSE
-SLUIT;35;358

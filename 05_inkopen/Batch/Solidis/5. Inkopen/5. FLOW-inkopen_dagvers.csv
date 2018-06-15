@@ -1,8 +1,0 @@
-NAV-HEADER;Inkopen;;;;;;;;16448250;57;525;1285;FALSE
-NAV-ITEM;Inkopen;Dagvers;;;;;;;9281216;84;635;1281;FALSE
-LABEL;Inkopen;Dagvers;;;btn_detail;;;;3701200;202;136;1287;COMBOBOX
-BUTTON;Inkopen;Dagvers;;;btn_make_order;dd_pur_vw_dd_pur_crossd_orderform;;;16777153;562;284;1278;FALSE
-BUTTON;Inkopen;Dagvers;;;btn_forward;dd_pur_dd_pur_order_new_dlg_frm_wiz1;;;14474980;673;324;1283;FALSE
-BUTTON;Inkopen;Dagvers;;;btn_send;dd_pur_dd_pur_order_new_dlg_frm_wiz2;;;16645886;740;311;1287;FALSE
-BUTTON;Inkopen;Dagvers;;;btn_save;dd_core_email_new_frm;;;13422291;669;332;1275;FALSE
-SLUIT;30;64
